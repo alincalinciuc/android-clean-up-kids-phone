@@ -1,7 +1,7 @@
 # Clean up your kids Android phones easy and fast without losing data
 
 ### Enable debug mode 
-Go to Settings > About Phone > Software Information > Build Number - click on it multiple times)
+Go to Settings > About Phone > Software Information > Build Number (click on it multiple times)
 
 Go to Settings > Developer Options > USB debugging (turn it on)
 
