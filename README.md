@@ -14,6 +14,9 @@ Go to Settings > Developer Options > USB debugging (turn it on)
 ### Go to the root directory of the archive content
 `cd platform-tools`
 
+### Confirm that you device is connected
+`./adb devices`
+
 ### Get list of all 3rd party installed packages
 `./adb shell "pm list packages -3`
 
